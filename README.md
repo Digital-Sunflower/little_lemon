@@ -1,1 +1,1 @@
-# little_lemon
+This is my capstone project for the Front End Development course that demonstrates my ability to build a React-based web app. The goal of this project is to provide the user the ability to reserve a table through the Little Lemon restaurant app.
